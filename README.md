@@ -78,8 +78,7 @@ DSA | OOPS | DBMS | Operating Systems
 
 ## 🌐 Connect With Me
 
-- 📧 Email: yourmail@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile  
+- 📧 Email: harshvardhan7302@gmail.com  
 - 🌍 Location: India  
 
 ---
